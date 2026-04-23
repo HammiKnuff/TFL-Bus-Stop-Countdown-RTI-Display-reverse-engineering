@@ -7,7 +7,8 @@ They are probably made by Trueform and/or Vix Technology; albeit, there are no m
 **To-Do:**
 
  - [x] Reverse engineer the LED Matrix
- - [x] Make Custom Board and Software to Controll the Matrix
+ - [ ] Make Custom Board and Software to Controll the Matrix
+ - [x] Dump the Software on the SRAM IC on SPU/MD2
  - [ ] Reverse enigneer the SPU/MD2 Board
  - [ ] Find out how to communicate with the Original Hardware
  - [ ] Reverse engineer the EXT/MD1 Board
